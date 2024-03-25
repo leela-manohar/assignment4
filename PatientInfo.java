@@ -3,8 +3,8 @@ import java.util.*;
 class PatientInfo {
     
     static final String JDBC_URL = "jdbc:oracle:thin:@//localhost:1521/xe";
-    static final String USERNAME = "vaddebabu";
-    static final String PASSWORD = "system";
+    static final String USERNAME = "manu";
+    static final String PASSWORD = "sys18";
 
     public static void main(String[] args) {
         Connection conn = null;
